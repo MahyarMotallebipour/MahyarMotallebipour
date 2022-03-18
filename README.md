@@ -1,4 +1,4 @@
-<h4>About Mahyar</h4>
+<h4>About Mahyar Motallebipour</h4>
 I'm Mahyar Motallebipour, a web developer.
 I'm interested in programming, web development and teaching everything I know. I always try to keep myself up to date.
 I'm multipotentialite, Introverted and Logician.
